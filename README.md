@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=israfil6580&label=Profile%20views&color=0e75b6&style=flat" alt="israfil6580" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=israfil6580&label=Profile%20views&color=0e75b6&style=flat" alt="israfil6580" /> </p>
 <a href="https://www.facebook.com/israfil6580/">
 <img src="https://github.com/mir-hussain/mir-hussain/assets/114576715/78b0a1a4-c013-4635-a023-9e3c78a52bbc" />
 </a>
