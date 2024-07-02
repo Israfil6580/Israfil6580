@@ -2,8 +2,16 @@
 <a href="https://www.facebook.com/israfil6580/">
 <img src="https://github.com/mir-hussain/mir-hussain/assets/114576715/78b0a1a4-c013-4635-a023-9e3c78a52bbc" />
 </a>
+<br/>
+
+## :keyboard: Activities
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israfil6580&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="israfil6580" /></p>
+</div>
+<br/>
 
 ## :boy: About me
+
 <h3 align="left">I am a Frontend Web Developer and MERN stack enthusiast. I love building responsive and interactive web applications. I enjoy solving problems and continuously learning new technologies to improve my skills.</h3>
 
 ## :computer: Technologies that I know
@@ -46,11 +54,3 @@
 ### 🤔 I’m Passionate - about helping others learn and grow in web development
 ### ⚡ Fun fact -  I also have good design knowledge, enhancing my ability to create frontend.
 
-
-<br/>
-
-## :keyboard: Activities
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=israfil6580&" alt="israfil6580" /></p> <br/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=israfil6580&show_icons=true&locale=en" alt="israfil6580" /></p>
-</div>
