@@ -51,7 +51,6 @@
 
 ## :keyboard: Activities
 <div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israfil6580&" alt="israfil6580" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=israfil6580&show_icons=true&locale=en" alt="israfil6580" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israfil6580&show_icons=true&locale=en&layout=compact" alt="israfil6580" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=israfil6580&" alt="israfil6580" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=israfil6580&show_icons=true&locale=en" alt="israfil6580" /></p>
 </div>
