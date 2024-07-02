@@ -1,4 +1,3 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=israfil6580&label=Profile%20views&color=0e75b6&style=flat" alt="israfil6580" /> </p>
 <a href="https://www.facebook.com/israfil6580/">
 <img src="https://github.com/mir-hussain/mir-hussain/assets/114576715/78b0a1a4-c013-4635-a023-9e3c78a52bbc" />
 </a>
@@ -7,6 +6,7 @@
 ## ⏲️: Current Stats
 
 <div align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=israfil6580&label=Profile%20views&color=0e75b6&style=flat" alt="israfil6580" /> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israfil6580&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="israfil6580" /></p>
 </div>
 <br/>
