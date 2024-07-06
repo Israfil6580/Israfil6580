@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
- 🔭 I’m currently working on Next JS.<br>🌱 I’m currently learning Material UI, Redux, TypeScript.<br>👯 I'm looking to join open-source projects in frontend development using React and Redux.<br>🤝 I want to gain practical experience and improve my frontend skills.<br>🌱 I'm learning advanced Redux techniques and server-side rendering in Next.js.<br>💬 Ask me about frontend development, responsive design, or user-friendly interfaces.<br>⚡ I enjoy using CSS animations to make interfaces lively!<br>
+ 🔭 I’m currently working on Next JS.<br>🌱 I’m learning Material UI, Redux, TypeScript.<br>👯 I'm looking to join open-source projects in frontend development using React and Redux.<br>🤝 I want to gain practical experience and improve my frontend skills.<br>🌱 I'm learning advanced Redux techniques and server-side rendering in Next.js.<br>💬 Ask me about frontend development, responsive design, or user-friendly interfaces.<br>⚡ I enjoy using CSS animations to make interfaces lively!<br>
 
 ## ⏲️ Github Stats
 
